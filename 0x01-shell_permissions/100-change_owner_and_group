@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo mount -o remount,rw /.
+sudo chown -R vincent:staff ./
